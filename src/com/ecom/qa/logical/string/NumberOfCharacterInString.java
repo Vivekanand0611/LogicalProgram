@@ -25,7 +25,6 @@ public class NumberOfCharacterInString {
 			if (enter.getValue() >= 1) {
 
 				System.out.println(enter.getKey() + "--" + enter.getValue());
-				System.out.println("The Number");
 			}
 		}
 	}
